@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700;800&family=Roboto+Slab:wght@400;500;600&display=swap');
+
+*{
+    text-transform: capitalize;
+}
+
+h1 {
+    font-size: 2rem;
+    color: #fff;
+}
+
+.container h2 {
+    font-size: 1.5rem;
+}
+
+.form-select {
+    color: #212529;
+    opacity: 0.9;
+}
+
+option {
+    color: black;
+}
+
+.input-group-text {
+    background-color: #fff;
+}
+
+#nameAlert {
+    background-color: #c03512;
+    border-radius: 7px;
+    margin-top: -16px;
+    width: 88%;
+    padding-left: 10px;
+
+}
+
+#priceAlert {
+    background-color: #c03512;
+    border-radius: 7px;
+    margin-top: -16px;
+    width: 40%;
+    padding-left: 10px;
+}
+
+#descAlert {
+    background-color: #c03512;
+    border-radius: 7px;
+    margin-top: -16px;
+    width: 52%;
+    padding-left: 10px;
+
+}
+
+#capacityAlert {
+    background-color: #c03512;
+    border-radius: 7px;
+    margin-top: -16px;
+    width: 40%;
+    padding-left: 10px;
+
+}
+
+.form-label {
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Roboto Slab', serif;
+}
+
+body {
+    background-color: #768b6b;
+    padding-bottom: 50px;
+}
+
+.datta {
+    font-size: 23px !important;
+    line-height: 1.2;
+    color: #084428;
+}
+
+form #addBtn{
+    background-color: #017241;
+    color: #f3f3f3d4;
+    border-color: #017241;
+}
+/*.req:hover {
+    transform: scaleX(1.1);
+}*/
+
+
+
+/*.EnterData {
+    background-image: url(../image/download\ \(8\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 60px;
+    border-radius: 20px;
+}*/
+
+.table th {
+    font-size: 17px;
+}
